@@ -1,0 +1,4 @@
+{
+	"mongoURI": "mongodb+srv://brock:brock123@contacts-xfa6m.mongodb.net/test?retryWrites=true&w=majority",
+	"jwtSecret": "secret_code_here"
+}
